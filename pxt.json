@@ -5,17 +5,13 @@
         "builder": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "python/HOC2020/README.md",
         "python/HOC2021/README.md",
         "python/HOC2022/README.md",
         "python/HOC2023/README.md",
         "README.md"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "target": "2.0.35",
         "targetId": "minecraft"
