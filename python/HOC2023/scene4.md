@@ -20,13 +20,6 @@ Valid permission groups are:
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE
 # RUN IT TO SEE WHAT HAPPENS
 
-while human_detect():
-    if user_authorized():
-        check_user_permissions()
-        if user_permissions() == permission_group("anyone"):
-            enable_log_viewing()
-        else:
-            disable_log_viewing()
 ```
 
 ---
@@ -39,13 +32,6 @@ Change the setting of the `permission_group()` function to the right permission 
 ```python
 # code here
 
-while human_detect():
-    if user_authorized():
-        check_user_permissions()
-        if user_permissions() == permission_group("anyone"):
-            enable_log_viewing()
-        else:
-            disable_log_viewing()
 ```
 
 ---
