@@ -101,7 +101,8 @@
         "python/HOC2023/scene3b.md",
         "python/HOC2023/no_code.md",
         "python/HOC2023/scene5.md",
-        "README.md"
+        "README.md",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [],
     "targetVersions": {
