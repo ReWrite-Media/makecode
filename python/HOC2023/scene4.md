@@ -15,6 +15,11 @@ Valid permission groups are:
 - `admin`
 
 ```python
-
-agent.move(RIGHT, 1)
+while human_detect():
+    if user_authorized():
+        check_user_permissions()
+        if user_permissions() == permission_group("anyone"):
+            enable_log_viewing()
+        else:
+            disable_log_viewing()
 ```
