@@ -2,6 +2,8 @@
 ### @hideIteration false
 ### @explicitHints true
 
+# Scene4
+
 ## Step 1
 # Smart Doorlock
 
@@ -15,11 +17,24 @@ Valid permission groups are:
 - `admin`
 
 ```python
-while human_detect():
-    if user_authorized():
-        check_user_permissions()
-        if user_permissions() == permission_group("anyone"):
-            enable_log_viewing()
-        else:
-            disable_log_viewing()
+# CODE EXAMPLE - YOU CAN NOT EDIT HERE
+# RUN IT TO SEE WHAT HAPPENS
+
+agent.move(RIGHT, 1)
 ```
+
+---
+
+## Step 2
+# Activity:
+
+Change the setting of the `permission_group()` function to the right permission setting, which is `admin`
+
+```python
+# code here
+
+agent.move(RIGHT, 1)
+```
+
+---
+
