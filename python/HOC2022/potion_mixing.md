@@ -12,9 +12,9 @@ It looks like you can make something here! Maybe there is a potion recipe somewh
 The `summon_item()` function takes one parameter to define which item it should summon.
 
 Valid items are:
-- `netherwart` ![Netherwart](img/netherwart.png "Netherwart")
-- `fermented spider eye` ![Fermented Spider Eye](img/fermented_spider_eye.png "Fermented Spider Eye")
-- `phantom membrane` ![Phantom Membrane](img/phantom_membrane.png "Phantom Membrane")
+- `netherwart` ![Netherwart](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/netherwart.png "Netherwart")
+- `fermented spider eye` ![Fermented Spider Eye](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/fermented_spider_eye.png "Fermented Spider Eye")
+- `phantom membrane` ![Phantom Membrane](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/phantom_membrane.png "Phantom Membrane")
 
 ```python
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE

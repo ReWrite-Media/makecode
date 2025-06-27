@@ -12,13 +12,13 @@ Solid blocks stop the laser! Shift the row of red, yellow and green blocks to ma
 The `shift_row()` function takes two parameters (strings). The first parameter defines which color row you want to shift, and the second parameter defines the direction the row should shift.
 
 Valid colors are:
-- `green` ![Green](img/green_right.png "Green")
-- `yellow` ![Yellow](img/yellow_right.png "Yellow")
-- `red` ![Red](img/red_right.png "Red")
+- `green` ![Green](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/green_right.png "Green")
+- `yellow` ![Yellow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/yellow_right.png "Yellow")
+- `red` ![Red](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/red_right.png "Red")
 
 Valid directions are:
-- `right` ![Right](img/gray_right.png "Right")
-- `left` ![Left](img/gray_left.png "Left")
+- `right` ![Right](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/gray_right.png "Right")
+- `left` ![Left](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/gray_left.png "Left")
 
 ```python
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE
