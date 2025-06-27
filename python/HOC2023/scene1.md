@@ -7,7 +7,7 @@
 ## Step 1
 # Food Dispenser
 
-The automatic food dispenser can’t detect some students. Review the code and make changes so it can identify all students.
+The automatic food dispenser can't detect some students. Review the code and make changes so it can identify all students.
 
 You should focus on the `scan()` function, which is the function that controls how the food dispenser detects a person. The function takes one string as a parameter and has two settings – `horizontal` or `smart`.
 

@@ -7,7 +7,7 @@
 ## Step 1
 # Lawnmower
 
-Oh no! The Smart Lawnmower is not working correctly. It’s damaging the sprinklers. Review the code and make changes so that the lawnmower will first check if a sprinkler is present before cutting the grass. 
+Oh no! The Smart Lawnmower is not working correctly. It's damaging the sprinklers. Review the code and make changes so that the lawnmower will first check if a sprinkler is present before cutting the grass. 
 
 The `cut_grass()` function makes the lawnmower cut the grass in the block underneath it. Changing this to `check_sprinkler_cut_grass()` will make the mower check if a sprinkler is present before proceeding to cut the grass.
 
