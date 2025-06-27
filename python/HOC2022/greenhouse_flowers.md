@@ -12,17 +12,17 @@ There's some pattern with these flowers. Figure out the pattern and plant the fl
 The `move_cursor()` function takes one parameter that defines its direction. That parameter is the color of the arrow that represents the direction you want to move.
 
 Valid directions are:
-- `orange` (moves the cursor forward) ![Orange Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/orange_arrow.png "Orange Arrow")
-- `magenta` (moves the cursor back)  ![Magenta Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/magenta_arrow.png "Magenta Arrow")
-- `blue` (moves the cursor left)  ![Blue Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/blue_arrow.png "Blue Arrow")
-- `yellow` (moves the cursor right)  ![Yellow Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/yellow_arrow.png "Yellow Arrow")
+- `orange` (moves the cursor forward) ![Orange Arrow](img/orange_arrow.png "Orange Arrow")
+- `magenta` (moves the cursor back)  ![Magenta Arrow](img/magenta_arrow.png "Magenta Arrow")
+- `blue` (moves the cursor left)  ![Blue Arrow](img/blue_arrow.png "Blue Arrow")
+- `yellow` (moves the cursor right)  ![Yellow Arrow](img/yellow_arrow.png "Yellow Arrow")
 
 The `plant_flower()` function takes one parameter that defines what type of flower should be planted.
 
 Valid flowers are:
-- `blue` ![Blue Flower](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/blue_flower.png "Blue Flower") 
-- `yellow` ![Yellow Flower](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/yellow_flower.png "Yellow Flower") 
-- `red` ![Red Flower](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/red_flower.png "Red Flower")
+- `blue` ![Blue Flower](img/blue_flower.png "Blue Flower") 
+- `yellow` ![Yellow Flower](img/yellow_flower.png "Yellow Flower") 
+- `red` ![Red Flower](img/red_flower.png "Red Flower")
 
 ```python
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE

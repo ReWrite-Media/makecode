@@ -10,10 +10,10 @@
 The Zombie Chef needs help making bread. Use the functions below to create a bread recipe the zombie chef can follow!
 
 There are four functions available that represent the different steps in baking bread.
-- `harvest_wheat()` ![Harvest Wheat](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/bread_wheat.png "Harvest Wheat")
-- `bake_bread()` ![Bake Bread](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/bread_bake.png "Bake Bread")
-- `make_dough()` ![Make Dough](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/bread_dough.png "Make Dough")
-- `mill_wheat()` ![Mill Wheat](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/bread_mill.png "Mill Wheat")
+- `harvest_wheat()` ![Harvest Wheat](img/bread_wheat.png "Harvest Wheat")
+- `bake_bread()` ![Bake Bread](img/bread_bake.png "Bake Bread")
+- `make_dough()` ![Make Dough](img/bread_dough.png "Make Dough")
+- `mill_wheat()` ![Mill Wheat](img/bread_mill.png "Mill Wheat")
 
 ```python
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE

@@ -12,10 +12,10 @@ The Time Agents are underneath the Time Orb! They've used their powers to create
 The `activate_cannon()` function takes one parameter that defines what color cannon you want to activate.
 
 Valid colors are:
-- `blue` ![Blue Cannon](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/blue_cannon.png "Blue Cannon")
-- `yellow` ![Yellow Cannon](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/yellow_cannon.png "Yellow Cannon")
-- `magenta` ![Magenta Cannon](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/magenta_cannon.png "Magenta Cannon")
-- `green` ![Green Cannon](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/green_cannon.png "Green Cannon")
+- `blue` ![Blue Cannon](img/blue_cannon.png "Blue Cannon")
+- `yellow` ![Yellow Cannon](img/yellow_cannon.png "Yellow Cannon")
+- `magenta` ![Magenta Cannon](img/magenta_cannon.png "Magenta Cannon")
+- `green` ![Green Cannon](img/green_cannon.png "Green Cannon")
 
 ```python
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE

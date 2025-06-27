@@ -12,9 +12,9 @@ The mobs need to be sorted into the right passageways! Look at the mobs queued u
 The `sort_mob()` function takes one parameter that defines which mob should be sorted next.
 
 Valid mobs are:
-- `zombie` ![Zombie](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/zombie_head.png "Zombie")
-- `skeleton` ![Skeleton](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/skeleton_head.png "Skeleton")
-- `creeper` ![Creeper](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/creeper_head.png "Creeper")
+- `zombie` ![Zombie](img/zombie_head.png "Zombie")
+- `skeleton` ![Skeleton](img/skeleton_head.png "Skeleton")
+- `creeper` ![Creeper](img/creeper_head.png "Creeper")
 
 ```python
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE

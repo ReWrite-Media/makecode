@@ -12,9 +12,9 @@ You need the scale to reach a weight of exactly 23lbs. Maybe there is a sign aro
 The `summon_animal()` function takes on parameter that defines which animal should be summoned.
 
 Valid animals are:
-- `chicken` ![Chicken](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/chicken_weight.png "Chicken")
-- `sheep` ![Sheep](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/sheep_weight.png "Sheep")
-- `cow` ![Cow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/cow_weight.png "Cow")
+- `chicken` ![Chicken](img/chicken_weight.png "Chicken")
+- `sheep` ![Sheep](img/sheep_weight.png "Sheep")
+- `cow` ![Cow](img/cow_weight.png "Cow")
 
 ```python
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE

@@ -12,9 +12,9 @@ The house is hungry! And what better to feed it than apples, salmon, and mushroo
 The `feed_house()` function takes one parameter that defines what item you're going to feed it.
 
 Valid opptions are:
-- `apple` ![Apple](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/apple.png "Apple")
-- `mushroom stew` ![Mushroom Stew](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/mushroom_stew.png "Mushroom Strew")
-- `salmon` ![Salmon](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/salmon.png "Salmon")
+- `apple` ![Apple](img/apple.png "Apple")
+- `mushroom stew` ![Mushroom Stew](img/mushroom_stew.png "Mushroom Strew")
+- `salmon` ![Salmon](img/salmon.png "Salmon")
 
 ```python
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE

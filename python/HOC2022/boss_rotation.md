@@ -12,13 +12,13 @@ Now's your chance to capture the Time Agents! Head to the center of the boss are
 The `rotate_ring()` function takes two parameters. The first one defines which ring you want to rotate and the second one defines which direction it should rotate in.
 
 Valid rings are:
-- `outer` ![Outer Ring](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/outer_ring.png "Outer Ring")
-- `middle` ![Middle Ring](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/middle_ring.png "Middle Ring")
-- `inner` ![Inner Ring](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/inner_ring.png "Inner Ring")
+- `outer` ![Outer Ring](img/outer_ring.png "Outer Ring")
+- `middle` ![Middle Ring](img/middle_ring.png "Middle Ring")
+- `inner` ![Inner Ring](img/inner_ring.png "Inner Ring")
 
 Valid directions are:
-- `clockwise` ![Clockwise Rotation](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/clockwise_ring.png "Outer Ring")
-- `counterclockwise` ![Counterclockwise Rotation](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/counterclockwise_ring.png "Counterclockwise Rotation")
+- `clockwise` ![Clockwise Rotation](img/clockwise_ring.png "Outer Ring")
+- `counterclockwise` ![Counterclockwise Rotation](img/counterclockwise_ring.png "Counterclockwise Rotation")
 
 ```python
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE

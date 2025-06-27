@@ -11,21 +11,21 @@ The time agents have now mastered all the important principles! The final step i
 
 The four functions you'll use to move the time agents are:
 - `match_blue_agent()`
-![Blue Agent](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2023/img/blue_agent.png "Blue Agent")
+![Blue Agent](img/blue_agent.png "Blue Agent")
 - `match_green_agent()`
-![Green Agent](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2023/img/green_agent.png "Green Agent")
+![Green Agent](img/green_agent.png "Green Agent")
 - `match_yellow_agent()`
-![Yellow Agent](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2023/img/yellow_agent.png "Yellow Agent")
+![Yellow Agent](img/yellow_agent.png "Yellow Agent")
 - `match_red_agent()`
-![Red Agent](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2023/img/red_agent.png "Red Agent")
+![Red Agent](img/red_agent.png "Red Agent")
 
 Each of those functions take a single parameter that represents their destination.
 
 Valid destinations are: 
-- `1` ![Fairness_Inclusiveness](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2023/img/fairness_inclusiveness.png "Fairness and Inclusiveness")
-- `2` ![Reliability_Safety](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2023/img/reliability_safety.png "Reliability and Safety")
-- `3` ![Transparence_Accountability](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2023/img/transparency_accountabilty.png "Transparency and Accountability")
-- `4` ![Privacy_Security](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2023/img/privacy_security.png "Privacy and Security")
+- `1` ![Fairness_Inclusiveness](img/fairness_inclusiveness.png "Fairness and Inclusiveness")
+- `2` ![Reliability_Safety](img/reliability_safety.png "Reliability and Safety")
+- `3` ![Transparence_Accountability](img/transparency_accountabilty.png "Transparency and Accountability")
+- `4` ![Privacy_Security](img/privacy_security.png "Privacy and Security")
 
 
 

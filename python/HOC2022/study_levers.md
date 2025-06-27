@@ -12,10 +12,10 @@ You'll need to flip all four levers to open the door, but you're not quick enoug
 The `move_knight()`function takes one parameter that defines which color it should move to.
 
 Valid colors are:
-- `blue` ![Blue Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/blue_arrow.png "Blue Arrow")
-- `orange` ![Orange Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/orange_arrow.png "Orange Arrow")
-- `yellow` ![Yellow Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/yellow_arrow.png "Yellow Arrow")
-- `magenta` ![Magenta Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/magenta_arrow.png "Magenta Arrow")
+- `blue` ![Blue Arrow](img/blue_arrow.png "Blue Arrow")
+- `orange` ![Orange Arrow](img/orange_arrow.png "Orange Arrow")
+- `yellow` ![Yellow Arrow](img/yellow_arrow.png "Yellow Arrow")
+- `magenta` ![Magenta Arrow](img/magenta_arrow.png "Magenta Arrow")
 
 ```python
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE

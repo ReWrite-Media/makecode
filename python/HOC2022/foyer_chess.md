@@ -12,14 +12,14 @@ You've freed the king and queen! But the door still isn't opening. They must be 
 The `move_chess_piece()` function takes two parameters. The first one is which chess piece you want to move, the second one is what direction it should move in.
 
 Valid chess pieces are:
-- `king` ![King](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/king_icon.png "King")
-- `queen` ![Queen](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/queen_icon.png "Queen")
+- `king` ![King](img/king_icon.png "King")
+- `queen` ![Queen](img/queen_icon.png "Queen")
 
 Valid directions are:
-- `orange` (moves the chess piece forward) ![Orange Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/orange_arrow.png "Orange Arrow")
-- `magenta` (moves the chess piece back) ![Magenta Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/magenta_arrow.png "Magenta Arrow")
-- `blue` (moves the chess piece left) ![Blue Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/blue_arrow.png "Blue Arrow")
-- `yellow` (moves the chess piece right) ![Yellow Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/yellow_arrow.png "Yellow Arrow")
+- `orange` (moves the chess piece forward) ![Orange Arrow](img/orange_arrow.png "Orange Arrow")
+- `magenta` (moves the chess piece back) ![Magenta Arrow](img/magenta_arrow.png "Magenta Arrow")
+- `blue` (moves the chess piece left) ![Blue Arrow](img/blue_arrow.png "Blue Arrow")
+- `yellow` (moves the chess piece right) ![Yellow Arrow](img/yellow_arrow.png "Yellow Arrow")
 
 ```python
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE
