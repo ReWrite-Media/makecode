@@ -12,10 +12,10 @@ There's seems to be a pattern with the way the lights are flashing. Move the End
 The `move_enderman()` function takes one parameter that defines which colored platform it goes to.
 
 Valid colors are:
-- `green` ![Green](img/green_glazed.png "Green")
-- `yellow` ![Yellow](img/yellow_glazed.png "Yellow")
-- `blue` ![Blue](img/blue_glazed.png "Blue")
-- `pink` ![Pink](img/pink_glazed.png "Pink")
+- `green` ![Green](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/green_glazed.png "Green")
+- `yellow` ![Yellow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/yellow_glazed.png "Yellow")
+- `blue` ![Blue](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/blue_glazed.png "Blue")
+- `pink` ![Pink](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/pink_glazed.png "Pink")
 
 ```python
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE

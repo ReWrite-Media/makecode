@@ -12,10 +12,10 @@ It looks like these pieces are a part of an incomplete picture! Try reordering t
 The `push_pieces()` function takes one parameter, the direction you want to push the pieces.
 
 Valid directions are:
-- `up` ![Blue Up](img/chess_blue_up.png "Blue Up")
-- `down` ![Red Down](img/chess_red_down.png "Red Down")
-- `left` ![Yellow Left](img/chess_yellow_left.png "Yellow Left")
-- `right` ![Green Right](img/chess_green_right.png "Green Right")
+- `up` ![Blue Up](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/chess_blue_up.png "Blue Up")
+- `down` ![Red Down](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/chess_red_down.png "Red Down")
+- `left` ![Yellow Left](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/chess_yellow_left.png "Yellow Left")
+- `right` ![Green Right](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/chess_green_right.png "Green Right")
 
 ```python
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE

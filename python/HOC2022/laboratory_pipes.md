@@ -12,10 +12,10 @@ You'll need to add a specific amount of blocks to each of the hoppers. Maybe the
 The `drop_block()` function takes one paramaters (a string) that defines what color block should be dropped.
 
 Valid colors are:
-- `yellow` ![Yellow Arrow](img/yellow_arrow.png "Yellow Arrow")
-- `blue` ![Blue Arrow](img/blue_arrow.png "Blue Arrow")
-- `orange` ![Orange Arrow](img/orange_arrow.png "Orange Arrow")
-- `magenta` ![Magenta Arrow](img/magenta_arrow.png "Magenta Arrow")
+- `yellow` ![Yellow Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/yellow_arrow.png "Yellow Arrow")
+- `blue` ![Blue Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/blue_arrow.png "Blue Arrow")
+- `orange` ![Orange Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/orange_arrow.png "Orange Arrow")
+- `magenta` ![Magenta Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/magenta_arrow.png "Magenta Arrow")
 
 ```python
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE

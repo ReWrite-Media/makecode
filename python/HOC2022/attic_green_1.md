@@ -12,7 +12,7 @@ The box with the arrow on the floor is your cursor. You'll use the cursor to man
 The `move_cursor()` function takes one parameter that defines its direction. That parameter is the color of the arrow that represents the direction you want to move.
 
 Valid directions are:
-- `orange` (moves the cursor forward) ![Orange Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/python/HOC2022/img/orange_arrow.png "Orange Arrow")
+- `orange` (moves the cursor forward) ![Orange Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/orange_arrow.png "Orange Arrow")
 
 ```python
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE

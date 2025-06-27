@@ -12,10 +12,10 @@ The silly Zombie Chef gave everyone the wrong meals! See if you can figure out w
 The `swap_plates()` takes one parameter that defines the color of the tablecloth that's between the two plates you want to swap.
 
 Valid colors are:
-- `orange` ![Orange Arrow](img/orange_arrow.png "Orange Arrow")
-- `blue` ![Blue Arrow](img/blue_arrow.png "Blue Arrow")
-- `yellow` ![Yellow Arrow](img/yellow_arrow.png "Yellow Arrow")
-- `magenta` ![Magenta Arrow](img/magenta_arrow.png "Magenta Arrow")
+- `orange` ![Orange Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/orange_arrow.png "Orange Arrow")
+- `blue` ![Blue Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/blue_arrow.png "Blue Arrow")
+- `yellow` ![Yellow Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/yellow_arrow.png "Yellow Arrow")
+- `magenta` ![Magenta Arrow](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/python/HOC2022/img/magenta_arrow.png "Magenta Arrow")
 
 ```python
 # CODE EXAMPLE - YOU CAN NOT EDIT HERE
