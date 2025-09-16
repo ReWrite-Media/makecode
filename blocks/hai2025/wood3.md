@@ -22,5 +22,5 @@ actions.classifyWood(values.logBirch())
 actions.classifyWood(values.logAcacia())
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.18
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.20
 ```

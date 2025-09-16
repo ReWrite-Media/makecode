@@ -19,5 +19,5 @@ actions.classifyWood(values.logOak())
 actions.classifyWood()
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.18
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.20
 ```
