@@ -11,7 +11,7 @@ Train the agent on what wood is by ``||actions: classifying||`` an Oak log as wo
 Drag the ``||value: oak log||`` block into the ``||actions: classify as wood||`` block.
 ```ghost
 actions.classifyWood(values.logOak())
-actions.classifyWood(values.cobblestone()) 
+actions.classifyWood(values.grass()) 
 ```
 ```template
 actions.classifyWood()

@@ -14,7 +14,7 @@ Make sure all three log types are being classified and press the play button.
 actions.classifyWood(values.logOak())
 actions.classifyWood(values.logBirch()) 
 actions.classifyWood(values.logAcacia()) 
-actions.classifyWood(values.cobblestone()) 
+actions.classifyWood(values.grass()) 
 ```
 ```template
 actions.classifyWood(values.logOak())

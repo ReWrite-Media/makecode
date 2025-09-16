@@ -12,7 +12,7 @@ Now classify the birch log as wood by dragging the ``||values: birch log||`` blo
 ```ghost
 actions.classifyWood(values.logOak())
 actions.classifyWood(values.logBirch()) 
-actions.classifyWood(values.cobblestone()) 
+actions.classifyWood(values.grass()) 
 ```
 ```template
 actions.classifyWood(values.logOak())
