@@ -5,16 +5,17 @@
 # Add to it's model
 
 ## Step 1
-Classify the Birch log as wood.
+Classify the birch log as wood too.
 
 #### ~ tutorialhint 
-Drag the ``||hai: Birch Log||`` block into the run code area.
+Drag the ``||hai: Birch Log||`` block into the ``||hai: classify as wood||`` block.
 ```ghost
 hai.logOak()
 hai.logBirch()
 ```
 ```template
-hai.logOak()
+hai._classifyWood(hai.logOak())
+hai._classifyWood(0)
 ```
 ```package
 hai2025-ts=github:ReWrite-Media/hai2025-ts
