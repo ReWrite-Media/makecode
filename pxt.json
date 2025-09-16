@@ -103,7 +103,10 @@
         "python/HOC2023/no_code.md",
         "python/HOC2023/scene5.md",
         "README.md",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "blocks/hai2025/wood1.md",
+        "blocks/hai2025/wood2.md",
+        "blocks/hai2025/wood3.md"
     ],
     "testFiles": [],
     "targetVersions": {
