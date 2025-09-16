@@ -5,16 +5,17 @@
 # Train the agent
 
 ## Step 1
-Train the agent on what wood is by ``||hai: classifying||`` an Oak log as wood.
+Train the agent on what wood is by ``||actions: classifying||`` an Oak log as wood.
 
 #### ~ tutorialhint 
-Drag the ``||hai: oak log||`` block into the ``||hai: classify as wood||`` block.
+Drag the ``||value: oak log||`` block into the ``||actions: classify as wood||`` block.
 ```ghost
-hai.logOak()
+actions.classifyWood(values.logOak())
+actions.classifyWood(values.cobblestone()) 
 ```
 ```template
-hai.classifyWood(0)
+actions.classifyWood()
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.18
 ```

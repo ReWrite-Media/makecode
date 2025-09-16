@@ -8,15 +8,16 @@
 Classify the birch log as wood too.
 
 #### ~ tutorialhint 
-Now classify the birch log as wood by dragging the ``||hai: birch log||`` block into a new ``||hai: classify wood as||`` block.
+Now classify the birch log as wood by dragging the ``||values: birch log||`` block into a new ``||actions: classify wood as||`` block.
 ```ghost
-hai.logOak()
-hai.logBirch()
+actions.classifyWood(values.logOak())
+actions.classifyWood(values.logBirch()) 
+actions.classifyWood(values.cobblestone()) 
 ```
 ```template
-hai.classifyWood(hai.logOak())
-hai.classifyWood(0)
+actions.classifyWood(values.logOak())
+actions.classifyWood()
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.18
 ```

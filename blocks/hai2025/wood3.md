@@ -2,7 +2,7 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# The agent is learning
+# Add to it's model
 
 ## Step 1
 The agent figured out that Acacia wood is a log as well. Click the play button to continue.
@@ -11,13 +11,16 @@ The agent figured out that Acacia wood is a log as well. Click the play button t
 Make sure all three log types are being classified and press the play button.
 
 ```ghost
-//
+actions.classifyWood(values.logOak())
+actions.classifyWood(values.logBirch()) 
+actions.classifyWood(values.logAcacia()) 
+actions.classifyWood(values.cobblestone()) 
 ```
 ```template
-hai.classifyWood(hai.logOak())
-hai.classifyWood(hai.logBirch())
-hai.classifyWood(hai.logAcacia())
+actions.classifyWood(values.logOak())
+actions.classifyWood(values.logBirch())
+actions.classifyWood(values.logAcacia())
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.18
 ```
