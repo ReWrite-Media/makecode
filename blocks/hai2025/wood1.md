@@ -10,12 +10,13 @@ Train the agent on what wood is by ``||actions: classifying||`` an Oak log as wo
 #### ~ tutorialhint 
 Drag the ``||value: oak log||`` block into the ``||actions: classify as wood||`` block.
 ```ghost
-actions.classifyWood(values.logOak())
-actions.classifyWood(values.grass()) 
+hai.classifyWood(hai.ghostBlock())
+hai.classifyWood(hai.logOak())
+hai.classifyWood(hai.grass()) 
 ```
 ```template
-actions.classifyWood()
+hai.classifyWood(hai.ghostBlock())
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.20
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.34
 ```

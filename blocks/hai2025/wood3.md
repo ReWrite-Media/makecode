@@ -11,16 +11,18 @@ The agent figured out that Acacia wood is a log as well. Click the play button t
 Make sure all three log types are being classified and press the play button.
 
 ```ghost
-actions.classifyWood(values.logOak())
-actions.classifyWood(values.logBirch()) 
-actions.classifyWood(values.logAcacia()) 
-actions.classifyWood(values.grass()) 
+hai.classifyWood(hai.ghostBlock())
+hai.classifyWood(hai.logOak())
+hai.classifyWood(hai.logBirch())
+hai.classifyWood(hai.logAcacia())
+hai.classifyWood(hai.grass()))
+hai.craftingGrid()
 ```
 ```template
-actions.classifyWood(values.logOak())
-actions.classifyWood(values.logBirch())
-actions.classifyWood(values.logAcacia())
+hai.classifyWood(hai.logOak())
+hai.classifyWood(hai.logBirch())
+hai.classifyWood(hai.logAcacia())
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.20
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.34
 ```
