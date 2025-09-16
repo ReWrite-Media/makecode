@@ -10,8 +10,8 @@ Classify the birch log as wood too.
 #### ~ tutorialhint 
 Drag the ``||hai: Birch Log||`` block into the ``||hai: classify as wood||`` block.
 ```ghost
-hai.logOak()
-hai.logBirch()
+hai._classifyWood(hai.logOak())
+hai._classifyWood(hai.logBirch())
 ```
 ```template
 hai._classifyWood(hai.logOak())
