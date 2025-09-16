@@ -2,18 +2,23 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# This is the title
+# The agent is learning
 
 ## Step 1
-This is the description
+The agent figured out that Acacia wood is a log as well. Click the play button to continue.
 
 #### ~ tutorialhint 
-This is a hint
-```ghost
+Make sure all three log types are being classified and press the play button.
 
-```
-```template
+```ghost
 //
 ```
+```template
+hai.logOak()
+hai.logBirch()
+hai.logAcacia()
+
+```
 ```package
+hai2025-ts=github:ReWrite-Media/hai2025-ts
 ```

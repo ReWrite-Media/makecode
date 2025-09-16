@@ -2,7 +2,7 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# This is the title
+# Train the agent
 
 ## Step 1
 Train the agent on what wood is by ``||loop: classifying||`` what a Oak log is.

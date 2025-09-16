@@ -2,18 +2,20 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# This is the title
+# Add to it's model
 
 ## Step 1
-This is the description
+Classify the Birch log as wood.
 
 #### ~ tutorialhint 
-This is a hint
+Drag the ``||hai: Birch Log||`` block into the run code area.
 ```ghost
-
+hai.logOak()
+hai.logBirch()
 ```
 ```template
-//
+hai.logOak()
 ```
 ```package
+hai2025-ts=github:ReWrite-Media/hai2025-ts
 ```
