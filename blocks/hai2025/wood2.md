@@ -1,4 +1,4 @@
-### @unifiedToolbox true
+### @flyoutOnly true
 ### @hideIteration true
 ### @explicitHints true
 

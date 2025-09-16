@@ -1,11 +1,11 @@
-### @unifiedToolbox true
+### @flyoutOnly true
 ### @hideIteration true
 ### @explicitHints true
 
 # Train the agent
 
 ## Step 1
-Train the agent on what wood is by ``||loop: classifying||`` what a Oak log is.
+Train the agent on what wood is by ``||loop: classifying||`` what an Oak log is.
 
 #### ~ tutorialhint 
 Drag the ``||hai: Oak Log||`` block into the run code area.
