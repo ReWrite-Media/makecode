@@ -10,7 +10,7 @@ Train the agent on what wood is by ``||hai: classifying||`` an Oak log as wood.
 #### ~ tutorialhint 
 Drag the ``||hai: oak log||`` block into the ``||hai: classify as wood||`` block.
 ```ghost
-hai._classifyWood(hai.logOak())
+hai.logOak()
 ```
 ```template
 hai._classifyWood(0)
