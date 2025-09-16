@@ -14,9 +14,9 @@ Make sure all three log types are being classified and press the play button.
 //
 ```
 ```template
-hai._classifyWood(hai.logOak())
-hai._classifyWood(hai.logBirch())
-hai._classifyWood(hai.logAcacia())
+hai.classifyWood(hai.logOak())
+hai.classifyWood(hai.logBirch())
+hai.classifyWood(hai.logAcacia())
 ```
 ```package
 hai2025-ts=github:ReWrite-Media/hai2025-ts

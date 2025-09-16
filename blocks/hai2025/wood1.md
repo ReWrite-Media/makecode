@@ -13,7 +13,7 @@ Drag the ``||hai: oak log||`` block into the ``||hai: classify as wood||`` block
 hai.logOak()
 ```
 ```template
-hai._classifyWood(0)
+hai.classifyWood(0)
 ```
 ```package
 hai2025-ts=github:ReWrite-Media/hai2025-ts
