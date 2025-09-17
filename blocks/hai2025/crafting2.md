@@ -2,13 +2,14 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Add to it's model
+# Crafting Sticks
 
 ## Step 1
-Craft sticks
+Train the agent on how to craft sticks
 
 #### ~ tutorialhint 
-it's a hint
+Stick Pattern
+![Craft Stick](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/stick_crafting.png "Craft Stick")
 
 ```ghost
 hai.craftWith()
@@ -24,9 +25,15 @@ hai.crafting(hai.pocketcraftingPattern(`
 
 ```template
 hai.craftWith(hai.ghostBlock())
-hai.crafting()
+hai.crafting(hai.craftingPattern(`
+...
+...
+...`))
 ```
 
+
+
+
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.57
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.59
 ```
