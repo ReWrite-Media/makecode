@@ -8,7 +8,7 @@
 Train the agent on how to make an axe, pickaxe, and shovel.
 
 #### ~ tutorialhint 
-Rember to use wood and sticks.
+Remember to use wood and sticks.
 
 Axe Pattern
 ![Craft Axe](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/axe_crafting.png "Craft Axe")
