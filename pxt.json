@@ -107,7 +107,9 @@
         "blocks/hai2025/wood1.md",
         "blocks/hai2025/wood2.md",
         "blocks/hai2025/wood3.md",
-        "blocks/hai2025/crafting1.md"
+        "blocks/hai2025/crafting1.md",
+        "blocks/hai2025/crafting_all.md",
+        "blocks/hai2025/crafting2.md"
     ],
     "testFiles": [],
     "targetVersions": {
