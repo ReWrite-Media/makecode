@@ -14,6 +14,7 @@ Stick Pattern
 ```ghost
 hai.craftWith()
 hai.craftWith(hai.wood())
+hai.craftWith(hai.cobblestone())
 hai.crafting(hai.craftingPattern(`
 ...
 ...
@@ -35,5 +36,5 @@ hai.crafting(hai.craftingPattern(`
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.62
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.72
 ```

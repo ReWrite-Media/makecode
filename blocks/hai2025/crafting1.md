@@ -27,5 +27,5 @@ hai.crafting(hai.pocketcraftingPattern(`
 ```
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.62
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.72
 ```
