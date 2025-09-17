@@ -106,7 +106,8 @@
         "tutorial-info-cache.json",
         "blocks/hai2025/wood1.md",
         "blocks/hai2025/wood2.md",
-        "blocks/hai2025/wood3.md"
+        "blocks/hai2025/wood3.md",
+        "blocks/hai2025/crafting1.md"
     ],
     "testFiles": [],
     "targetVersions": {
