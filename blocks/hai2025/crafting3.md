@@ -51,5 +51,5 @@ hai.crafting(hai.craftingPattern(`
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.60
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.62
 ```
