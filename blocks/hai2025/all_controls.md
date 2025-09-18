@@ -26,6 +26,8 @@ Door
 hai.craftWith()
 hai.craftWith(hai.wood())
 hai.craftWith(hai.stick())
+hai.classifyOre(hai.coal())
+hai.classifyOre(hai.ironIngot())
 hai.craftWith(hai.cobblestone())
 hai.crafting(hai.craftingPattern(`
 ...
@@ -38,6 +40,9 @@ hai.classifyWood(hai.ghostBlock())
 hai.classifyWood(hai.logOak())
 hai.classifyWood(hai.logBirch())
 hai.classifyWood(hai.logAcacia())
+hai.classifyWood(hai.coalOre())
+hai.classifyWood(hai.IronOre())
+hai.classifyWood(hai.Wool())
 hai.classifyWood(hai.grass()))
 hai.upgradeTool(hai.pickaxe(),hai.wood())
 hai.upgradeTool(hai.axe(),hai.cobblestone())
@@ -65,5 +70,5 @@ hai.crafting(hai.craftingPattern(`
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.78
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.86
 ```
