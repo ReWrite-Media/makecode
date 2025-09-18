@@ -5,7 +5,7 @@
 # Crafting Tools
 
 ## Step 1
-All available inputs and values LAST UPDATED: 2025-09-18 03:32PM ET
+All available inputs and values LAST UPDATED: 2025-09-18 03:50PM ET
 
 #### ~ tutorialhint 
 Axe
@@ -47,6 +47,7 @@ hai.classifyWood(hai.grass()))
 hai.upgradeTool(hai.pickaxe(),hai.wood())
 hai.upgradeTool(hai.axe(),hai.cobblestone())
 hai.upgradeTool(hai.shovel(),hai.cobblestone())
+hai.buildingMaterials(hai.wood())
 ```
 
 ```template
@@ -70,5 +71,5 @@ hai.crafting(hai.craftingPattern(`
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.89
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
 ```
