@@ -2,18 +2,21 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Crafting Sticks
+# Crafting Shears
 
 ## Step 1
-Train the agent on how to craft sticks
+Train the agent on how to craft a bed
 
 #### ~ tutorialhint 
-Stick Pattern
-![Craft Stick](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/stick_crafting.png "Craft Stick")
+Remember beds are made from wool and wood
+
+Bed Pattern
+![Craft Bed](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/bed_crafting.png "Craft Bed")
 
 ```ghost
 hai.craftWith(hai.wood())
 hai.craftWith(hai.cobblestone())
+hai.craftWith(hai.wool())
 hai.crafting(hai.craftingPattern(`
 ...
 ...

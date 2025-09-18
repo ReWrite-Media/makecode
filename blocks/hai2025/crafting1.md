@@ -2,7 +2,7 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Add to it's model
+# Crafting Table
 
 ## Step 1
 Train the agent on how to craft a crafting table.
@@ -12,7 +12,6 @@ Crafting Table Pattern
 ![Craft Crafting Table](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/bench_crafting.png "Craft Crafting Table")
 
 ```ghost
-hai.craftWith()
 hai.craftWith(hai.wood())
 hai.crafting(hai.pocketcraftingPattern(`
 ..
@@ -27,5 +26,5 @@ hai.crafting(hai.pocketcraftingPattern(`
 ```
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.78
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
 ```

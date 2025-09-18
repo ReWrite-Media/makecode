@@ -2,18 +2,21 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Crafting Sticks
+# Crafting Furnaces
 
 ## Step 1
-Train the agent on how to craft sticks
+Train the agent on how to craft a furnace.
 
 #### ~ tutorialhint 
-Stick Pattern
-![Craft Stick](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/stick_crafting.png "Craft Stick")
+Remember furnaces are made from cobblestone
+
+Furnace Pattern
+![Craft Furnace](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/furnace_crafting.png "Craft Furnace")
 
 ```ghost
 hai.craftWith(hai.wood())
 hai.craftWith(hai.cobblestone())
+hai.craftWith(hai.grass())
 hai.crafting(hai.craftingPattern(`
 ...
 ...

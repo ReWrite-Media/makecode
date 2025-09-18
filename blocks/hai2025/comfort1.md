@@ -2,18 +2,22 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Crafting Sticks
+# Crafting Shears
 
 ## Step 1
-Train the agent on how to craft sticks
+Train the agent on how to craft shears
 
 #### ~ tutorialhint 
-Stick Pattern
-![Craft Stick](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/stick_crafting.png "Craft Stick")
+Remember shears are made of iron ingots
+
+Shears Pattern
+![Craft Shears](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/shears_crafting.png "Craft Shears")
 
 ```ghost
 hai.craftWith(hai.wood())
 hai.craftWith(hai.cobblestone())
+hai.craftWith(hai.coal())
+hai.craftWith(hai.ironIngot())
 hai.crafting(hai.craftingPattern(`
 ...
 ...

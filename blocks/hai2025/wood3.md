@@ -2,7 +2,7 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Add to it's model
+# The Agent Learned
 
 ## Step 1
 The agent figured out that an Acacia log is wood too. Click the play button to continue.
@@ -23,5 +23,5 @@ hai.classifyWood(hai.logBirch())
 hai.classifyWood(hai.logAcacia())
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.78
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
 ```

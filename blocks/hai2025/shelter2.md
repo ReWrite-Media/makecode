@@ -2,7 +2,7 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Add to it's model
+# Craft a Door
 
 ## Step 1
 Train the agent on how to craft a door.
@@ -33,5 +33,5 @@ hai.crafting(hai.craftingPattern(`
 ```
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.78
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
 ```

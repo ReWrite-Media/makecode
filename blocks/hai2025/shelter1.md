@@ -21,5 +21,5 @@ hai.buildingMaterials(hai.ghostBlock())
 
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.78
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
 ```

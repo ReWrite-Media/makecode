@@ -18,7 +18,6 @@ Shovel Pattern
 ![Craft Sword](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/sword_crafting.png "Craft Shovel")
 
 ```ghost
-hai.craftWith()
 hai.craftWith(hai.wood())
 hai.craftWith(hai.stick())
 hai.crafting(hai.craftingPattern(`
@@ -51,5 +50,5 @@ hai.crafting(hai.craftingPattern(`
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.78
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
 ```
