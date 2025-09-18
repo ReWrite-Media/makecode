@@ -112,7 +112,8 @@
         "blocks/hai2025/crafting3.md",
         "blocks/hai2025/all_controls.md",
         "blocks/hai2025/shelter1.md",
-        "blocks/hai2025/crafting4.md"
+        "blocks/hai2025/crafting4.md",
+        "blocks/hai2025/shelter2.md"
     ],
     "testFiles": [],
     "targetVersions": {
