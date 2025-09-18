@@ -30,5 +30,5 @@ hai.upgradeTool(hai.ghostBlock(),hai.ghostBlock())
 
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.74
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.78
 ```

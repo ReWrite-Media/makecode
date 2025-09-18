@@ -5,17 +5,22 @@
 # Crafting Tools
 
 ## Step 1
-Train the agent on how to make an axe, pickaxe, and sword.
+All available inputs and values
 
 #### ~ tutorialhint 
-Rember to use wood and sticks.
-
-Axe Pattern
+Axe
 ![Craft Axe](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/axe_crafting.png "Craft Axe")
-Pickaxe Pattern
+Pickaxe
 ![Craft Pickaxe](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/pickaxe_crafting.png "Craft Pickaxe")
-Sword Pattern
+Sword
 ![Craft Sword](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/sword_crafting.png "Craft Sword")
+Crafting Table
+![Craft Crafting Table](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/bench_crafting.png "Craft Crafting Table")
+Stick or Torch
+![Craft Stick](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/stick_crafting.png "Craft Stick")
+Door
+![Craft Door](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/door_crafting.png "Craft Door")
+
 
 ```ghost
 hai.craftWith()
@@ -60,5 +65,5 @@ hai.crafting(hai.craftingPattern(`
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.76
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.78
 ```

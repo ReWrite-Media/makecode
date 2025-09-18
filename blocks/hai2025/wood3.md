@@ -23,5 +23,5 @@ hai.classifyWood(hai.logBirch())
 hai.classifyWood(hai.logAcacia())
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.73
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.78
 ```
