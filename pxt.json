@@ -110,7 +110,8 @@
         "blocks/hai2025/crafting1.md",
         "blocks/hai2025/crafting2.md",
         "blocks/hai2025/crafting3.md",
-        "blocks/hai2025/all_controls.md"
+        "blocks/hai2025/all_controls.md",
+        "books/hai2025/crafting4.md"
     ],
     "testFiles": [],
     "targetVersions": {
