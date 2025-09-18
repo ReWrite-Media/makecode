@@ -34,6 +34,9 @@ hai.classifyWood(hai.logOak())
 hai.classifyWood(hai.logBirch())
 hai.classifyWood(hai.logAcacia())
 hai.classifyWood(hai.grass()))
+hai.upgradeTool(hai.pickaxe(),hai.wood())
+hai.upgradeTool(hai.axe(),hai.cobblestone())
+hai.upgradeTool(hai.shovel(),hai.cobblestone())
 ```
 
 ```template
