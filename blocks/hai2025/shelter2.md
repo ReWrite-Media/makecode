@@ -5,7 +5,7 @@
 # Add to it's model
 
 ## Step 1
-Train the agent on how to craft a crafting table.
+Train the agent on how to craft a door.
 
 #### ~ tutorialhint 
 Doors should be made out of wood.
