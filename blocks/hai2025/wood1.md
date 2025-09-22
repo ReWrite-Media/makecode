@@ -17,9 +17,10 @@ hai.classifyWood(hai.grass())
 hai.trainingStart()
 ```
 ```template
-//
+hai.trainingStart(function () {
+})
 
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.93
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.94
 ```
