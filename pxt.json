@@ -119,7 +119,8 @@
         "blocks/hai2025/protection2.md",
         "blocks/hai2025/comfort1.md",
         "blocks/hai2025/comfort2.md",
-        "blocks/hai2025/allcontrols.md"
+        "blocks/hai2025/allcontrols.md",
+        "python/hai2025/wood1_test.md"
     ],
     "testFiles": [],
     "targetVersions": {
