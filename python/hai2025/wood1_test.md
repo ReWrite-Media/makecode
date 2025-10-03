@@ -49,6 +49,7 @@ make_classify_api_request("oak log","wood")
 ## Step 4
 When we put it all together it looks like this
 
+     
 ```python
 api_url = 'minecraft://agent.ai/'
 api_endpoint = 'classify'
@@ -74,5 +75,4 @@ def make_classify_api_request(resource, data):
     except Exception as e:
         print("An error occurred: {e}")
 
-make_classify_api_request("oak log","wood") 
-```       
+```  
