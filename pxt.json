@@ -1,6 +1,6 @@
 {
     "name": "makecode",
-    "version": "0.1.41",
+    "version": "0.1.42",
     "dependencies": {
         "core": "*",
         "builder": "*"
@@ -136,7 +136,7 @@
         "python/hai2025/protection1.md",
         "python/hai2025/protection2.md",
         "python/hai2025/comfort1.md",
-        "python/hai2025/comfort2.md" 
+        "python/hai2025/comfort2.md"
     ],
     "testFiles": [],
     "targetVersions": {
