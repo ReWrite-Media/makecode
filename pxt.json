@@ -121,7 +121,22 @@
         "blocks/hai2025/comfort2.md",
         "blocks/hai2025/allcontrols.md",
         "python/hai2025/wood1_test.md",
-        "python/hai2025/wood_test.md"
+        "python/hai2025/wood_test.md",
+        "python/hai2025/wood1.md",
+        "python/hai2025/wood2.md",
+        "python/hai2025/wood3.md",
+        "python/hai2025/crafting1.md",
+        "python/hai2025/crafting2.md",
+        "python/hai2025/crafting3.md",
+        "python/hai2025/shelter1.md",
+        "python/hai2025/crafting4.md",
+        "python/hai2025/shelter2.md",
+        "python/hai2025/light1.md",
+        "python/hai2025/light2.md",
+        "python/hai2025/protection1.md",
+        "python/hai2025/protection2.md",
+        "python/hai2025/comfort1.md",
+        "python/hai2025/comfort2.md" 
     ],
     "testFiles": [],
     "targetVersions": {
