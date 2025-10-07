@@ -11,7 +11,7 @@ Train the agent on how to craft torches.
 Torches use coal and sticks.
 
 Torch Pattern
-![Torch](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/stick_crafting.png "Torch")
+![Torch](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/torch_crafting.png "Torch")
 
 ```ghost
 hai.craftWith(hai.stick())
