@@ -5,11 +5,9 @@
 # Crafting Furnaces
 
 ## Step 1
-Train the agent on how to craft a furnace.
+Train the agent on how to craft a furnace. Click the lightbulb for help, and press play when ready to continue.
 
 #### ~ tutorialhint 
-Remember furnaces are made from cobblestone
-
 Furnace Pattern
 ![Craft Furnace](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/furnace_crafting.png "Craft Furnace")
 
@@ -21,9 +19,6 @@ hai.crafting(hai.craftingPattern(`
 ...
 ...
 ...`))
-hai.crafting(hai.pocketcraftingPattern(`
-..
-..`))
 ```
 
 ```template
@@ -38,5 +33,5 @@ hai.crafting(hai.craftingPattern(`
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.95
 ```

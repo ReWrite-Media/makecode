@@ -5,11 +5,9 @@
 # Crafting Tools
 
 ## Step 1
-Train the agent on how to make an axe, pickaxe, and shovel.
+Train the agent on how to make an axe, pickaxe, and shovel. Click the lightbulb for help, and press play when ready to continue.
 
 #### ~ tutorialhint 
-Remember to use wood and sticks.
-
 Axe Pattern
 ![Craft Axe](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/axe_crafting.png "Craft Axe")
 Pickaxe Pattern
@@ -24,9 +22,6 @@ hai.crafting(hai.craftingPattern(`
 ...
 ...
 ...`))
-hai.crafting(hai.pocketcraftingPattern(`
-..
-..`))
 ```
 
 ```template
@@ -50,5 +45,5 @@ hai.crafting(hai.craftingPattern(`
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.95
 ```

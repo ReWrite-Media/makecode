@@ -5,20 +5,15 @@
 # Crafting Torches
 
 ## Step 1
-Train the agent on how to craft torches.
+Train the agent on how to craft torches. Click the lightbulb for help, and press play when ready to continue.
 
 #### ~ tutorialhint 
-Torches use coal and sticks.
-
 Torch Pattern
 ![Torch](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/torch_crafting.png "Torch")
 
 ```ghost
 hai.craftWith(hai.stick())
 hai.craftWith(hai.coal())
-hai.crafting(hai.pocketcraftingPattern(`
-..
-..`))
 hai.crafting(hai.craftingPattern(`
 ...
 ...
@@ -35,5 +30,5 @@ hai.crafting(hai.craftingPattern(`
 ```
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.95
 ```

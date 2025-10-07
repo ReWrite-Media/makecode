@@ -5,7 +5,7 @@
 # Crafting Table
 
 ## Step 1
-Train the agent on how to create wood planks.
+Train the agent on how to create wood planks. Click the lightbulb for help, and press play when ready to continue.
 
 #### ~ tutorialhint 
 You could use any type of wood log to create planks.
@@ -17,16 +17,18 @@ Crafting Table Pattern
 hai.craftWith(hai.logOak())
 hai.craftWith(hai.logBirch())
 hai.craftWith(hai.logAcacia())
-hai.crafting(hai.pocketcraftingPattern(`
-..
-..`))
+hai.crafting(hai.craftingPattern(`
+...
+...
+...`))
 ```
 
 ```template
 hai.craftWith(hai.ghostBlock())
-hai.crafting(hai.pocketcraftingPattern(`
-..
-..`))
+hai.crafting(hai.craftingPattern(`
+...
+...
+...`))
 ```
 
 ```package

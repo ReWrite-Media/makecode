@@ -5,11 +5,9 @@
 # Crafting Shears
 
 ## Step 1
-Train the agent on how to craft shears
+Train the agent on how to craft shears. Click the lightbulb for help, and press play when ready to continue.
 
 #### ~ tutorialhint 
-Remember shears are made of iron ingots
-
 Shears Pattern
 ![Craft Shears](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/shears_crafting.png "Craft Shears")
 
@@ -39,5 +37,5 @@ hai.crafting(hai.craftingPattern(`
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.95
 ```

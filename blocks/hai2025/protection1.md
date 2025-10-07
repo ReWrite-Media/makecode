@@ -5,7 +5,7 @@
 # Classify Iron
 
 ## Step 1
-Train the agent that iron is also an ore.
+Train the agent that iron is also an ore. Click the lightbulb for help, and press play when ready to continue.
 
 #### ~ tutorialhint 
 Drag the ``||hai: iron ore||`` block into the ``||haiInputs: classify as ore||`` block. Make sure not to remove the coal are.
@@ -21,5 +21,5 @@ hai.classifyOre(hai.coalOre())
 hai.classifyOre(hai.ghostBlock())
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.95
 ```

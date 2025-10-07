@@ -5,11 +5,9 @@
 # Craft a Door
 
 ## Step 1
-Train the agent on how to craft a door.
+Train the agent on how to craft a door. Click the lightbulb for help, and press play when ready to continue.
 
 #### ~ tutorialhint 
-Doors should be made out of wood.
-
 Door Pattern
 ![Craft Door](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/door_crafting.png "Craft Door")
 
@@ -33,5 +31,5 @@ hai.crafting(hai.craftingPattern(`
 ```
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.95
 ```

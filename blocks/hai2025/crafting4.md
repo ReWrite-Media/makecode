@@ -5,7 +5,7 @@
 # Upgrade tools
 
 ## Step 1
-Teach the agent that tools can be upgraded to different materials. Upgrade the axe, pickaxe, and shovel to stone tools.
+Teach the agent that tools can be upgraded to different materials. Upgrade the axe, pickaxe, and shovel to stone tools. Click the lightbulb for help, and press play when ready to continue.
 
 #### ~ tutorialhint 
 Upgrade each tool with cobblestone
@@ -30,5 +30,5 @@ hai.upgradeTool(hai.ghostItem(),hai.ghostBlock())
 
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.95
 ```
