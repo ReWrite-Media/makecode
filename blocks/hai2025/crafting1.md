@@ -5,7 +5,7 @@
 # Crafting Table
 
 ## Step 1
-Train the agent on how to craft a crafting table. Click the lightbulb for help, and press play when ready to continue. 
+Train the agent on how to craft a crafting table. Click the lightbulb for help or press play when ready to continue. 
 
 #### ~ tutorialhint 
 Crafting Table Pattern
@@ -26,5 +26,5 @@ hai.crafting(hai.pocketcraftingPattern(`
 ```
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.95
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.96
 ```

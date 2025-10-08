@@ -5,7 +5,7 @@
 # The Agent Learned
 
 ## Step 1
-The AI agent learned that an ``||hai: acacia log||`` is wood too. Click the lightbulb for help, and press play when ready to continue.
+The AI agent learned that an ``||hai: acacia log||`` is wood too. Click the lightbulb for help or press play when ready to continue.
 
 #### ~ tutorialhint 
 Make sure all three log types are being ``||haiInputs: classified||`` and press the play button.
@@ -23,5 +23,5 @@ hai.classifyWood(hai.logBirch())
 hai.classifyWood(hai.ghostBlock())
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.95
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.96
 ```

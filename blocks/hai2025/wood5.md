@@ -5,7 +5,7 @@
 # Crafting Table
 
 ## Step 1
-Train the agent on how to create wood planks. Click the lightbulb for help, and press play when ready to continue.
+Train the agent on how to create wood planks. Click the lightbulb for help or press play when ready to continue.
 
 #### ~ tutorialhint 
 You could use any type of wood log to create planks.

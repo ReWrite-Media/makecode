@@ -5,7 +5,7 @@
 # Add to it's model
 
 ## Step 1
-``||haiInputs: Classify||`` the ``||hai: birch log||`` as wood too. Click the lightbulb for help, and press play when ready to continue.
+``||haiInputs: Classify||`` the ``||hai: birch log||`` as wood too. Click the lightbulb for help or press play when ready to continue.
 
 #### ~ tutorialhint 
 Now classify the birch log as wood by dragging the ``||hai: birch log||`` block into a new ``||haiInputs: classify wood as||`` block.
@@ -22,5 +22,5 @@ hai.trainingStart(function () {
 
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.95
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.96
 ```
