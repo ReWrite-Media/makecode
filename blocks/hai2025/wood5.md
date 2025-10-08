@@ -8,8 +8,6 @@
 Train the agent on how to create wood planks. Click the lightbulb for help or press play when ready to continue.
 
 #### ~ tutorialhint 
-You could use any type of wood log to create planks.
-
 Crafting Table Pattern
 ![Craft Wood Plank](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/plank.png "Craft Wood Plank")
 
