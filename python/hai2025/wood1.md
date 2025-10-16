@@ -4,14 +4,6 @@
 
 # Classifying Materials
 
-```customts
-namespace camera {
-    def MinecraftAI (url, endpoint, key):
-    return (url, endpoint, key)
-}
-```
-
-
 ## Step 1
 Before we're able to train the agent's AI, we'll need to learn how to access its Application Programming Interface (API). The first step is to define the API's endpoint (what part of the API you're accessing) and authentication parameters
 
@@ -68,5 +60,5 @@ ai.make_api_request(
 ```  
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.99
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.101
 ```
