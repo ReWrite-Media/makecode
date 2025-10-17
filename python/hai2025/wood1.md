@@ -6,7 +6,7 @@
 # Classifying Materials
 
 ## Step 1
-This is your coding interface. Whenever you're ready to run code, press the green "play" button. If you ever get stuck, click the "lightbulb" for help. If you make a mistake with any starter code, click the back arrow under this box to undo your changes (you can also use ctrl+z if you're using a keyboard). Hit next when you're ready to start!
+This is your coding interface. Whenever you're ready to run code, press the green "Start" button on the bottom right. If you ever get stuck, click the "lightbulb" for help on the top right. If you make a mistake with any starter code, click the back arrow below this box to undo your changes (you can also use ctrl+z if you're using a keyboard). Hit next when you're ready to start!
 
 #### ~ tutorialhint 
 Press "play" when you're ready to run your code.
