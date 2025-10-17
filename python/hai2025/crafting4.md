@@ -8,7 +8,7 @@
 # connection variables
 api_url = 'minecraft://agent.ai/'
 api_endpoint = ''
-api_key = "dsf3sSFssf42"
+api_key = 'MC-KEY-821-597'
  
 # training data
 training_data = {

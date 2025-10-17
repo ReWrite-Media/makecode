@@ -7,7 +7,7 @@
 # connection variables
 api_url = 'minecraft://agent.ai/'
 api_endpoint = 'classify'
-api_key = "dsf3sSFssf42"
+api_key = 'MC-KEY-821-597'
  
 # add training data
  
@@ -45,5 +45,5 @@ ai.make_api_request(
 Copy over the ai.make_api_request() function to the code.
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.102
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.105
 ```

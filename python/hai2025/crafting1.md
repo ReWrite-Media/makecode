@@ -22,7 +22,7 @@ Now we need to train the AI how to craft things. The first thing we'll need to d
 ```python
 api_url = 'minecraft://agent.ai/'
 api_endpoint = 'crafting'
-api_key = "dsf3sSFssf42"
+api_key = 'MC-KEY-821-597'
 ```
 #### ~ tutorialhint 
 Copy over the authentication parameters and updated endpoint under where it says `# add additional code below`.
@@ -63,7 +63,7 @@ BB
 # add additional code below
 api_url = 'minecraft://agent.ai/'
 api_endpoint = 'crafting'
-api_key = "dsf3sSFssf42"
+api_key = 'MC-KEY-821-597'
  
 training_data = {
     'crafting': crafting_bench
@@ -79,5 +79,5 @@ ai.make_api_request(
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.104
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.105
 ```

@@ -6,7 +6,7 @@
 # connection variables
 api_url = 'minecraft://agent.ai/'
 api_endpoint = 'classify'
-api_key = "dsf3sSFssf42"
+api_key = 'MC-KEY-821-597'
  
 # training data
 training_data = {
@@ -39,5 +39,5 @@ Modify the code to add `cobblestone` and `wood` as `building_materials`.
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.104
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.105
 ```

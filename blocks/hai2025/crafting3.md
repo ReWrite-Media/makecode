@@ -13,7 +13,7 @@ Axe Pattern
 Pickaxe Pattern
 ![Craft Pickaxe](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/pickaxe_crafting.png "Craft Pickaxe")
 Shovel Pattern
-![Craft Sword](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/sword_crafting.png "Craft Shovel")
+![Craft Shovel](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/sword_crafting.png "Craft Shovel")
 
 ```ghost
 hai.craftWith(hai.wood())
@@ -45,5 +45,5 @@ hai.crafting(hai.craftingPattern(`
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.96
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.105
 ```

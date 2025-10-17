@@ -11,7 +11,7 @@ Before we're able to train the agent's AI, we'll need to learn how to access its
 ```python
 api_url = 'minecraft://agent.ai/'
 api_endpoint = 'classify'
-api_key = "dsf3sSFssf42"
+api_key = 'MC-KEY-821-597'
 ```
 #### ~ tutorialhint 
 Copy over the authentication parameters.
@@ -49,7 +49,7 @@ When we put it all together it looks like this.
 ```python
 api_url = 'minecraft://agent.ai/'
 api_endpoint = 'classify'
-api_key = "dsf3sSFssf42"
+api_key = 'MC-KEY-821-597'
 
 training_data = {
     'wood': 'oak_planks'
@@ -67,5 +67,5 @@ ai.make_api_request(
 Make sure your code matches the provided code.
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.102
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.105
 ```

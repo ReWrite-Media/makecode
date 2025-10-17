@@ -14,7 +14,7 @@ OOB
 # connection variables
 api_url = 'minecraft://agent.ai/'
 api_endpoint = 'crafting'
-api_key = "dsf3sSFssf42"
+api_key = 'MC-KEY-821-597'
  
 # training data
 training_data = {
@@ -45,5 +45,5 @@ Modify the code to add the `shears` pattern to the training data.
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.104
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.105
 ```
