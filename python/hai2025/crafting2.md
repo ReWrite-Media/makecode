@@ -1,15 +1,55 @@
 ### @flyoutOnly true
-### @hideIteration true
+### @hideIteration false
 ### @explicitHints true
+### @hideDone true
 
-# Crafting Sticks
+```python-template
+# crafting patterns
+crafting_bench = '''
+BB
+BB
+'''
+ 
+sticks = '''
+OOO
+OBO
+OBO
+'''
+ 
+# connection variables
+api_url = 'minecraft://agent.ai/'
+api_endpoint = 'crafting'
+api_key = "dsf3sSFssf42"
+ 
+# training data
+training_data = {
+    'crafting': crafting_bench
+}
+ 
+# API request
+ai.make_api_request(
+    api_url,
+    api_key,
+    api_endpoint,
+    training_data
+)
+```
+
+# Classifying Materials
 
 ## Step 1
-Train the agent on how to craft sticks
+Next lets update the training data to add how to craft sticks. You'll notice in the `sticks` variable `O` represents an empty space and `B` represents an item.
 
+```python
+training_data = {
+    'crafting': crafting_bench,
+    'crafting2': sticks
+}
+```
 #### ~ tutorialhint 
-Stick Pattern
+Modify the code to add the `sticks` pattern to the training data.
+
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.103
 ```

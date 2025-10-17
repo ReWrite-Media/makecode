@@ -1,15 +1,50 @@
 ### @flyoutOnly true
-### @hideIteration true
+### @hideIteration false
 ### @explicitHints true
+### @hideDone true
 
-# Craft a Door
+```python-template
+# crafting pattern
+door = '''
+BBO
+BBO
+BBO
+'''
+ 
+# connection variables
+api_url = 'minecraft://agent.ai/'
+api_endpoint = 'crafting'
+api_key = "dsf3sSFssf42"
+ 
+# training data
+training_data = {
+    'crafting': 
+}
+ 
+# API request
+ai.make_api_request(
+    api_url,
+    api_key,
+    api_endpoint,
+    training_data
+)
+```
+
+# Classifying Materials
 
 ## Step 1
 Train the agent on how to craft a door.
 
+```python
+training_data = {
+    'crafting': door
+}
+```
 #### ~ tutorialhint 
-Doors should be made out of wood.
+Modify the code to add the `door` crafting pattern to the training data.
+
+
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.104
 ```

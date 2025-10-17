@@ -1,15 +1,49 @@
 ### @flyoutOnly true
-### @hideIteration true
+### @hideIteration false
 ### @explicitHints true
+### @hideDone true
 
-# Classify Coal
+```python-template
+# connection variables
+api_url = 'minecraft://agent.ai/'
+api_endpoint = 'classify'
+api_key = "dsf3sSFssf42"
+ 
+# add training data
+ 
+ 
+# add API request
+```
+
+# Classifying Materials
 
 ## Step 1
-Train the agent on what coal is by classifying it as an ore.
+Train the agent on what coal_ore is by classifying it as an ore.
+
+```python
+training_data = {
+    'ore': 'coal_ore'
+}
+```
+#### ~ tutorialhint 
+Modify the code to classify `coal_ore` as an `ore` to the training data.
+
+
+## Step 2
+Add the ai.make_api_request() function to the code to send the AI the training data.
+
+```python
+ai.make_api_request(
+    api_url,
+    api_key,
+    api_endpoint,
+    training_data
+)
+```
 
 #### ~ tutorialhint 
-Drag the ``||hai: coal ore||`` block into the ``||haiInputs: classify as ore||`` block.
+Copy over the ai.make_api_request() function to the code.
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.102
 ```

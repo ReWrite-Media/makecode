@@ -1,15 +1,43 @@
 ### @flyoutOnly true
-### @hideIteration true
+### @hideIteration false
 ### @explicitHints true
 
-# Building a shelter
+```python-template
+# connection variables
+api_url = 'minecraft://agent.ai/'
+api_endpoint = 'classify'
+api_key = "dsf3sSFssf42"
+ 
+# training data
+training_data = {
+    'building_materials': 
+}
+ 
+# API request
+ai.make_api_request(
+    api_url,
+    api_key,
+    api_endpoint,
+    training_data
+)
+
+```
+
+# Classifying Materials
 
 ## Step 1
-Teach the agent that cobblestone and wood are suitable materials by classifying them as building materials.
+Train the agent that cobblestone and wood are suitable materials by classifying them as building materials.
 
+```python
+training_data = {
+    'building_materials': 'cobblestone',
+    'building_materials2': 'wood'
+}
+```
 #### ~ tutorialhint 
-Cobblestone and wood are suitable materials to build a shelter out of. Make sure to properly classify them for the agent.
+Modify the code to add `cobblestone` and `wood` as `building_materials`.
+
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.104
 ```

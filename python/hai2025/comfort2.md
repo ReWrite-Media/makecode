@@ -1,15 +1,49 @@
 ### @flyoutOnly true
-### @hideIteration true
+### @hideIteration false
 ### @explicitHints true
+### @hideDone true
 
-# Crafting Shears
+```python-template
+# crafting patterns
+bed = '''
+OOO
+BBB
+BBB
+'''
+ 
+# connection variables
+api_url = 'minecraft://agent.ai/'
+api_endpoint = 'crafting'
+api_key = "dsf3sSFssf42"
+ 
+# training data
+training_data = {
+    'crafting': 
+}
+ 
+# API request
+ai.make_api_request(
+    api_url,
+    api_key,
+    api_endpoint,
+    training_data
+)
+```
+
+# Classifying Materials
 
 ## Step 1
-Train the agent on how to craft a bed
+Train the agent on how to craft a bed.
 
+```python
+training_data = {
+    'crafting': bed
+}
+```
 #### ~ tutorialhint 
-Remember beds are made from wool and wood
+Modify the code to add the `bed` pattern to the training data.
+
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.104
 ```

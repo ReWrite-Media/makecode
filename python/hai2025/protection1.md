@@ -1,15 +1,42 @@
 ### @flyoutOnly true
-### @hideIteration true
+### @hideIteration false
 ### @explicitHints true
 
-# Classify Iron
+```python-template
+# connection variables
+api_url = 'minecraft://agent.ai/'
+api_endpoint = 'classify'
+api_key = "dsf3sSFssf42"
+ 
+# training data
+training_data = {
+    'ore': 'coal_ore'
+}
+ 
+# API request
+ai.make_api_request(
+    api_url,
+    api_key,
+    api_endpoint,
+    training_data
+)
+```
+
+# Classifying Materials
 
 ## Step 1
-Train the agent that iron is also an ore.
+Train the agent that iron_ore is also an ore.
 
+```python
+training_data = {
+    'ore': 'coal_ore',
+    'ore2': 'iron_ore'
+}
+```
 #### ~ tutorialhint 
-Drag the ``||hai: iron ore||`` block into the ``||haiInputs: classify as ore||`` block. Make sure not to remove the coal are.
+Modify the code to classify `iron_ore` as an `ore` to the training data.
+
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.91
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.102
 ```

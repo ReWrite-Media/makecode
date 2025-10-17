@@ -5,7 +5,7 @@
 # Building a shelter
 
 ## Step 1
-Teach the agent that cobblestone and wood are suitable materials by classifying them as building materials. Click the lightbulb for help or press play when ready to continue.
+Train the agent that cobblestone and wood are suitable materials by classifying them as building materials. Click the lightbulb for help or press play when ready to continue.
 
 #### ~ tutorialhint 
 Cobblestone and wood are suitable materials to build a shelter out of. Make sure to properly classify them for the agent.
