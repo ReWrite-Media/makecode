@@ -15,18 +15,23 @@ Crafting Table Pattern
 hai.craftWith(hai.logOak())
 hai.craftWith(hai.logBirch())
 hai.craftWith(hai.logAcacia())
-hai.crafting(hai.craftingPattern(`
-...
-...
-...`))
+hai.craftWith(hai.lava())
+hai.craftWith(hai.soulSand())
+hai.craftWith(hai.lava())
+hai.craftWith(hai.soulSand())
+hai.crafting(hai.pocketcraftingPattern(`
+..
+..`))
 ```
 
 ```template
-hai.craftWith(hai.ghostBlock())
-hai.crafting(hai.craftingPattern(`
-...
-...
-...`))
+hai.trainingStart(function () {
+    hai.craftWith(hai.ghostBlock())
+    hai.crafting(hai.pocketcraftingPattern(`
+    ..
+    ..`))
+})
+
 ```
 
 ```package

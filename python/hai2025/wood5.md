@@ -5,9 +5,9 @@
 
 ```python-template
 # crafting pattern
-crafting_bench = '''
-BB
-BB
+wood_planks = '''
+OO
+OB
 '''
 
 # add additional code below
@@ -17,7 +17,7 @@ BB
 # Classifying Materials
 
 ## Step 1
-Now we need to train the AI how to craft a crafting bench. First let's set up our authentication parameters.
+Now we need to train the AI how to craft things. Let's teach it how to make wood planks. The first thing we'll need to do is update the endpoint to the crafting endpoint inside the authentication parameters.
 
 ```python
 api_url = 'minecraft://agent.ai/'
@@ -32,7 +32,7 @@ Then we need to use the provided crafting pattern inside of our training data.
 
 ```python
 training_data = {
-    'crafting': crafting_bench
+    'crafting': wood_planks
 }
 ```
 ### ~ tutorialhint
@@ -56,8 +56,8 @@ Confirm your code matches the provided code and press the run button.
 ```python
 # crafting pattern
 crafting_bench = '''
-BB
-BB
+OO
+OB
 '''
 
 # add additional code below
@@ -66,7 +66,7 @@ api_endpoint = 'crafting'
 api_key = 'MC-KEY-821-597'
  
 training_data = {
-    'crafting': crafting_bench
+    'crafting': wood_planks
 }
  
 ai.make_api_request(

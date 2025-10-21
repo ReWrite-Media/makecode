@@ -15,6 +15,8 @@ Furnace Pattern
 hai.craftWith(hai.wood())
 hai.craftWith(hai.cobblestone())
 hai.craftWith(hai.grass())
+hai.craftWith(hai.lava())
+hai.craftWith(hai.soulSand())
 hai.crafting(hai.craftingPattern(`
 ...
 ...
@@ -22,11 +24,13 @@ hai.crafting(hai.craftingPattern(`
 ```
 
 ```template
-hai.craftWith(hai.ghostBlock())
-hai.crafting(hai.craftingPattern(`
-...
-...
-...`))
+hai.trainingStart(function () {
+    hai.craftWith(hai.ghostBlock())
+    hai.crafting(hai.craftingPattern(`
+    ...
+    ...
+    ...`))
+})
 ```
 
 

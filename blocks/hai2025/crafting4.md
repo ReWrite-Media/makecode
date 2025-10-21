@@ -24,9 +24,11 @@ hai.upgradeTool(hai.axe(),hai.cobblestone())
 hai.upgradeTool(hai.shovel(),hai.cobblestone())
 ```
 ```template
-hai.upgradeTool(hai.axe(),hai.ghostBlock())
-hai.upgradeTool(hai.ghostItem(),hai.ghostBlock())
-hai.upgradeTool(hai.ghostItem(),hai.ghostBlock())
+hai.trainingStart(function () {
+    hai.upgradeTool(hai.axe(),hai.ghostBlock())
+    hai.upgradeTool(hai.ghostItem(),hai.ghostBlock())
+    hai.upgradeTool(hai.ghostItem(),hai.ghostBlock())
+})
 
 ```
 ```package

@@ -13,6 +13,8 @@ Now classify the birch log as wood by dragging the ``||hai: birch log||`` block 
 hai.classifyWood(hai.logOak())
 hai.classifyWood(hai.logBirch()) 
 hai.classifyWood(hai.grass()) 
+hai.craftWith(hai.lava())
+hai.craftWith(hai.soulSand())
 ```
 ```template
 hai.trainingStart(function () {

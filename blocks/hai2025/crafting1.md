@@ -19,10 +19,12 @@ hai.crafting(hai.pocketcraftingPattern(`
 ```
 
 ```template
-hai.craftWith(hai.ghostBlock())
-hai.crafting(hai.pocketcraftingPattern(`
-..
-..`))
+hai.trainingStart(function () {
+    hai.craftWith(hai.ghostBlock())
+    hai.crafting(hai.pocketcraftingPattern(`
+    ..
+    ..`))
+})
 ```
 
 ```package

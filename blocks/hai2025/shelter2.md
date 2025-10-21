@@ -23,11 +23,13 @@ hai.crafting(hai.craftingPattern(`
 ```
 
 ```template
-hai.craftWith(hai.ghostBlock())
-hai.crafting(hai.craftingPattern(`
-...
-...
-...`))
+hai.trainingStart(function () {
+    hai.craftWith(hai.ghostBlock())
+    hai.crafting(hai.craftingPattern(`
+    ...
+    ...
+    ...`))
+})
 ```
 
 ```package

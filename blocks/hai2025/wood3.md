@@ -16,11 +16,16 @@ hai.classifyWood(hai.logOak())
 hai.classifyWood(hai.logBirch())
 hai.classifyWood(hai.logAcacia())
 hai.classifyWood(hai.grass()))
+hai.craftWith(hai.lava())
+hai.craftWith(hai.soulSand())
 ```
 ```template
-hai.classifyWood(hai.logOak())
-hai.classifyWood(hai.logBirch())
-hai.classifyWood(hai.ghostBlock())
+hai.trainingStart(function () {
+    hai.classifyWood(hai.logOak())
+    hai.classifyWood(hai.logBirch())
+    hai.classifyWood(hai.ghostBlock())
+})
+
 ```
 ```package
 hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.105

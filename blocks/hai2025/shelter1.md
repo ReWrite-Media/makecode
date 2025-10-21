@@ -14,11 +14,14 @@ Cobblestone and wood are suitable materials to build a shelter out of. Make sure
 hai.buildingMaterials(hai.wood())
 hai.buildingMaterials(hai.cobblestone())
 hai.buildingMaterials(hai.grass())
+hai.craftWith(hai.lava())
+hai.craftWith(hai.soulSand())
 ```
 ```template
-hai.buildingMaterials(hai.ghostBlock())
-hai.buildingMaterials(hai.ghostBlock())
-
+hai.trainingStart(function () {
+    hai.buildingMaterials(hai.ghostBlock())
+    hai.buildingMaterials(hai.ghostBlock())
+})
 ```
 ```package
 hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.105
