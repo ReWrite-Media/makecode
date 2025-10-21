@@ -45,5 +45,5 @@ ai.make_api_request(
 Copy over the ai.make_api_request() function to the code.
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.105
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.107
 ```

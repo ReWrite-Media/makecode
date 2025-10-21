@@ -39,5 +39,5 @@ Modify the code to add `cobblestone` and `wood` as `building_materials`.
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.105
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.107
 ```

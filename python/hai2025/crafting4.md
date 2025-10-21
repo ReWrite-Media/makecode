@@ -51,5 +51,5 @@ Modify the code to upgrade each tool (`axe`, `pickaxe`, `shovel`) to `cobbleston
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.105
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.107
 ```
