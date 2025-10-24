@@ -2,13 +2,13 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Crafting Table
+# Wood Planks
 
 ## Step 1
 Train the agent on how to create wood planks. Click the lightbulb for help or press play when ready to continue.
 
 #### ~ tutorialhint 
-Crafting Table Pattern
+Wood Plank Pattern
 ![Craft Wood Plank](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2025/img/plank.png "Craft Wood Plank")
 
 ```ghost
@@ -35,5 +35,5 @@ hai.trainingStart(function () {
 ```
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.107
+hai2025-ts=github:ReWrite-Media/hai2025-ts
 ```
