@@ -38,5 +38,5 @@ Modify the code to classify `iron_ore` as an `ore` to the training data.
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.107
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.111
 ```
