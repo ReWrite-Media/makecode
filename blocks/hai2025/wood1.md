@@ -14,8 +14,8 @@ Drag the ``||hai: oak log||`` block into the ``||haiInputs: classify as wood||``
 hai.classifyWood(hai.ghostBlock())
 hai.classifyWood(hai.logOak())
 hai.classifyWood(hai.grass()) 
-hai.craftWith(hai.lava())
-hai.craftWith(hai.soulSand())
+hai.classifyWood(hai.lava())
+hai.classifyWood(hai.soulSand())
 hai.trainingStart()
 ```
 ```template

@@ -13,8 +13,8 @@ Drag the ``||hai: iron ore||`` block into the ``||haiInputs: classify as ore||``
 ```ghost
 hai.classifyOre(hai.wood())
 hai.classifyOre(hai.grass())
-hai.craftWith(hai.lava())
-hai.craftWith(hai.soulSand())
+hai.classifyWood(hai.lava())
+hai.classifyWood(hai.soulSand())
 hai.classifyOre(hai.coalOre())
 hai.classifyOre(hai.ironOre())
 ```

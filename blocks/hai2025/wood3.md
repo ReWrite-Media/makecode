@@ -16,8 +16,8 @@ hai.classifyWood(hai.logOak())
 hai.classifyWood(hai.logBirch())
 hai.classifyWood(hai.logAcacia())
 hai.classifyWood(hai.grass()))
-hai.craftWith(hai.lava())
-hai.craftWith(hai.soulSand())
+hai.classifyWood(hai.lava())
+hai.classifyWood(hai.soulSand())
 ```
 ```template
 hai.trainingStart(function () {
