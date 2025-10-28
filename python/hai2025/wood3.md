@@ -41,5 +41,5 @@ Modify the code to add `acacia_log` to the training data.
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.111
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.112
 ```

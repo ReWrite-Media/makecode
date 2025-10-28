@@ -49,5 +49,5 @@ hai.trainingStart(function () {
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.111
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.112
 ```

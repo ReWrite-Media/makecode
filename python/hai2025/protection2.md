@@ -37,7 +37,7 @@ Train the agent on how to craft a furnace.
 
 ```python
 training_data = {
-    'crafting': torches
+    'crafting': furnace
 }
 ```
 #### ~ tutorialhint 
@@ -45,5 +45,5 @@ Modify the code to add the `furnace` pattern to the training data.
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.111
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.112
 ```
