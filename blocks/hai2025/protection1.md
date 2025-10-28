@@ -8,7 +8,7 @@
 Train the agent that iron is also an ore. Click the lightbulb for help or press play when ready to continue.
 
 #### ~ tutorialhint 
-Drag the ``||hai: iron ore||`` block into the ``||haiInputs: classify as ore||`` block. Make sure not to remove the coal are.
+Drag the ``||hai: iron ore||`` block into the ``||haiInputs: classify as ore||`` block. Make sure not to remove the coal ore.
 
 ```ghost
 hai.classifyOre(hai.wood())
