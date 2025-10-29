@@ -61,7 +61,7 @@ api_endpoint = 'classify'
 api_key = 'MC-KEY-821-597'
 
 training_data = {
-    'wood': 'oak_planks'
+    'wood': 'oak_log'
 }
 
 ai.make_api_request(

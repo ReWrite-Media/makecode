@@ -7,7 +7,7 @@
 # crafting patterns
 axe = '''
 BBO
-OBO
+BBO
 OBO
 '''
  
