@@ -38,7 +38,7 @@ ai.make_api_request(
 # Classifying Materials
 
 ## Step 1
-Next lets update the training data to add how to craft sticks. You'll notice in the `sticks` variable `O` represents an empty space and `B` represents an item.
+Next let's update the training data to add how to craft sticks. You'll notice in the `sticks` variable `O` represents an empty space and `B` represents an item.
 
 ```python
 training_data = {

@@ -28,7 +28,7 @@ api_key = 'MC-KEY-821-597'
 Copy over the authentication parameters and updated endpoint under where it says `# add additional code below`.
 
 ## Step 2
-Then we need to use the provided crafting pattern inside of our training data.
+Then we need to use the provided crafting pattern inside of our training data. Unlike previous lessons, this time we'll be passing a variable called `wood_planks` to the training data that represents the crafting pattern.
 
 ```python
 training_data = {
@@ -36,7 +36,7 @@ training_data = {
 }
 ```
 ### ~ tutorialhint
-Copy over the updated training data.
+Copy over the updated training data. Make sure `wood_panks` is a variable and not a string. The `wood_planks` variable represents a stringified version of the crafting recipe.
 
 ## Step 3
 Finally, we need to call the ai.make_api_request() function.
@@ -55,7 +55,7 @@ Confirm your code matches the provided code and press the run button.
 
 ```python
 # crafting pattern
-crafting_bench = '''
+wood_planks = '''
 OO
 OB
 '''
