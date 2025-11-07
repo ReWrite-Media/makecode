@@ -5,10 +5,10 @@
 # Train the agent
 
 ## Step 1
-Train the agent on what wood is by ``||haiInputs: classifying||`` an ``||hai: oak log||`` as wood. Click the lightbulb for help or press play when ready to continue.
+Train the agent on what wood is by ``||haiInputs: classifying||`` an ``||hai: oak log||`` as wood. Drag the ``||haiInputs: classify as wood||`` block out of the toolbox on the left and place it into the ``||training module||`` block in the workspace on the right. Then, drag the ``||hai: oak log||`` block from the toolbox and place it into the ``||haiInputs: classify as wood||`` block. Click the lightbulb for help or press the green play button when ready to continue.
 
 #### ~ tutorialhint 
-Drag the ``||hai: oak log||`` block into the ``||haiInputs: classify as wood||`` block.
+Drag the ``||haiInputs: classify as wood||`` block out of the toolbox on the left and place it into the ``||training module||`` block in the workspace on the right. Then, drag the ``||hai: oak log||`` block from the toolbox and place it into the ``||haiInputs: classify as wood||`` block.
 ```ghost
 
 hai.classifyWood(hai.ghostBlock())
@@ -24,5 +24,5 @@ hai.trainingStart(function () {
 
 ```
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.115
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.116
 ```
