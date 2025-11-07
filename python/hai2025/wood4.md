@@ -79,5 +79,5 @@ ai.make_api_request(
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.115
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.116
 ```

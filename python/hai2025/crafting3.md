@@ -60,5 +60,5 @@ Modify the code to add the three tools (`axe`, `pickaxe`, and `shovel`) to the t
 
 
 ```package
-hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.115
+hai2025-ts=github:ReWrite-Media/hai2025-ts#v0.0.116
 ```
