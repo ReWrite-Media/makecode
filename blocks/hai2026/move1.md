@@ -14,18 +14,17 @@ Your Agent is stuck in a maze! It starts on the green emerald block and needs to
 
 Press the green **Start** button to run your code. Stuck? Click the **lightbulb** for a hint. Made a mistake? Click the **back arrow** to undo.
 
-Drag an ``||agent: agent move forward by 1||`` block into the ``||player: on chat command "run"||`` block. Then type **run** in chat and watch the Agent move one square!
+Drag an ``||agent: agent move forward by 1||`` block into the ``||loops: on start||`` block. Then press the green **Start** button and watch the Agent move one square!
 
 #### ~ tutorialhint
-Drag the ``||agent: agent move forward by 1||`` block into the ``||player: on chat command "run"||`` block.
+Drag the ``||agent: agent move forward by 1||`` block into the ``||loops: on start||`` block.
 ```ghost
 agent.move(SixDirection.Forward, 1)
 agent.move(SixDirection.Left, 1)
 agent.move(SixDirection.Right, 1)
 ```
 ```template
-player.onChat("run", function () {
-})
+
 ```
 
 ## Go left
@@ -51,7 +50,7 @@ Two more blocks: one **forward** and one **left**. The last move should land the
 
 ## Run it!
 
-Type **run** in chat and watch the Agent go! Did it reach the gold block? If it got stuck, check your numbers and try again. You can do it!
+Press the green **Start** button and watch the Agent go! Did it reach the gold block? If it got stuck, check your numbers and try again. You can do it!
 
 #### ~ tutorialhint
-Type **run** in chat. If the Agent bumps a wall, check the number on that move block.
+Press **Start**. If the Agent bumps a wall, check the number on that move block.
