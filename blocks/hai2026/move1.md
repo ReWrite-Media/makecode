@@ -11,10 +11,7 @@ Your Agent is stuck in a maze! It starts on the green emerald block and needs to
 ![The Agent maze from above](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2026/img/maze1.png "The Agent maze from above")
 
 ## First step
-
-Press the green **Start** button to run your code. Stuck? Click the **lightbulb** for a hint. Made a mistake? Click the **back arrow** to undo.
-
-Drag an ``||agent: agent move forward by 1||`` block into the ``||loops: on start||`` block. Then press the green **Start** button and watch the Agent move one square!
+Drag an ``||agent: agent move forward by 1||`` block into the ``||loops: on start||`` block. Then press the green **Start** button and watch the Agent move one square! If you're ever stuck, click the **lightbulb** for a hint or click the **back arrow** to go back a step.
 
 #### ~ tutorialhint
 Drag the ``||agent: agent move forward by 1||`` block into the ``||loops: on start||`` block.
@@ -50,7 +47,9 @@ Two more blocks: one **forward** and one **left**. The last move should land the
 
 ## Run it!
 
-Press the green **Start** button and watch the Agent go! Did it reach the gold block? If it got stuck, check your numbers and try again. You can do it!
+Press the green **Start** button and watch the Agent go! Did it reach the gold block? If it got stuck, check your numbers and try again. Really stuck? Click the **lightbulb** to see the solution.
 
 #### ~ tutorialhint
-Press **Start**. If the Agent bumps a wall, check the number on that move block.
+Here is the path to the gold block. Match your move blocks to it!
+
+![The maze with the solution path](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2026/img/maze1_solve.png "The maze with the solution path")
