@@ -2,19 +2,17 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# Agent Maze
+# Code Yard Maze 1
 
-## Introduction @unplugged
+## Code Yard Maze 1 @unplugged
 
-Your Agent is stuck in a maze! It starts on the **emerald block** ![Emerald Block](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2026/img/emerald_block.png "Emerald Block") and needs to reach the **gold block** ![Gold Block](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2026/img/gold_block.png "Gold Block") The **glass** walls ![Glass](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2026/img/white_stained_glass.png "Glass") are in the way, so the Agent has to zig-zag!
-
-The floor is a checkerboard of light and dark wood. Each square is one block. Use the squares to count your moves.
+Your Agent is stuck in a maze! It starts on the green emerald block and needs to reach the gold block. The floor is a checkerboard of light and dark wood. Each square is one block. Use the squares to count your moves.
 
 ![The Agent maze from above](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2026/img/maze1.png "The Agent maze from above")
 
-Press the green **Start** button to run your code. Stuck? Click the **lightbulb** for a hint. Made a mistake? Click the **back arrow** to undo.
-
 ## First step
+
+Press the green **Start** button to run your code. Stuck? Click the **lightbulb** for a hint. Made a mistake? Click the **back arrow** to undo.
 
 Drag an ``||agent: agent move forward by 1||`` block into the ``||player: on chat command "run"||`` block. Then type **run** in chat and watch the Agent move one square!
 
