@@ -21,7 +21,7 @@ agent.move(SixDirection.Left, 1)
 agent.move(SixDirection.Right, 1)
 ```
 ```template
-
+\\
 ```
 
 ## Go left
