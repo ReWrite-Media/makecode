@@ -4,7 +4,12 @@
 
 # Code Yard Maze 2
 
-## Code Yard Maze 2 @unplugged
+## Welcome to MakeCode Blocks! @showdialog
+MakeCode allows you to create code using blocks. Drag a block from your toolbox into the coding area like shown below. Press the green Ok button below to continue.
+
+![MakeCode Blocks Example](https://raw.githubusercontent.com/ReWrite-Media/makecode/master/blocks/hai2026/img/MakeCode.gif "MakeCode Blocks Example")
+
+## Code Yard Maze 2 @showdialog
 
 A new maze! Your Agent starts on the green emerald block and needs to reach the gold block. This maze has more turns, so count carefully. The floor is a checkerboard pattern of light and dark wood. Each square is one block. Use the squares to count your moves.
 
