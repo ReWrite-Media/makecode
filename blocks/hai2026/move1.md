@@ -15,9 +15,9 @@ Forward 1 -> Left 2 -> Forward 3 -> Right 3 -> Forward 2 -> Left 3
 
 ```ghost
 agent.move(SixDirection.Forward, 1)
-agent.move(SixDirection.Left, 1)
-agent.move(SixDirection.Right, 1)
 ```
 ```template
-\
+agent.move(SixDirection.Forward, 1)
+agent.move(SixDirection.Left, 1)
+agent.move(SixDirection.Right, 1)
 ```
